@@ -1,6 +1,6 @@
 import './main-style.css';
 
-import { EventManager } from './section-one/event-disparch';
+import { EventManager } from './section-one/event-dispatch';
 import {
     inlineCashingTest,
     inlineCashingTestByDeOptimize,
